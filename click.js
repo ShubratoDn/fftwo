@@ -1,0 +1,1 @@
+var buka=new Audio();buka.src="https://k.top4top.io/m_2040kqhti5.mp3";var tutup=new Audio();tutup.src="https://k.top4top.io/m_2040kqhti5.mp3";
